@@ -1,0 +1,16 @@
+{
+  "npc_1": [
+    {
+      "id": 1,
+      "text": "Bonjour aventurier ! Bienvenue dans mon havre de paix."
+    },
+    {
+      "id": 2,
+      "text": "Toi qui chercher l'aventure, va me chercher une émeraude !"
+    },
+    {
+      "id": 3,
+      "text": "Ce sont les champignons dans la forêt qui l'ont."
+    }
+  ]
+}
